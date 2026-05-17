@@ -12,11 +12,11 @@ open_weights = true
 
 [cost]
 input = 0.039
-output = 0.18
+output = 0.19
 
 [limit]
 context = 131_072
-output = 32_768
+output = 131_072
 
 [modalities]
 input = ["text"]
